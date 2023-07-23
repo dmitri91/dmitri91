@@ -4,6 +4,14 @@
    </h1>
 </div>
 
+<!--About me-->
+
+## :information_desk_person:About me
+
+- My name is Dmitiy.
+- I'm automation engineer from Nizhny Novgorod.
+- I work QA about 3 years (1 years AQA).
+- I write autotests in Python
 - Contacts:
 
 <p>
