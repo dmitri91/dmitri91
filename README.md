@@ -8,7 +8,7 @@
 
 ## :information_desk_person:About me
 
-- My name is Dmitiy.
+- My name is Dmitriy.
 - I'm automation engineer from Nizhny Novgorod.
 - I work QA about 3 years (1 years AQA).
 - I write autotests in Python
