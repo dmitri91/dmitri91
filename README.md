@@ -56,11 +56,11 @@
 
 ## :floppy_disk:Projects
 
-### [UI autotests](https://github.com/mkdv00/ui_demoqa) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
+### [UI autotests](https://github.com/dmitri91/qa_guru_demo_webshop) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
 
 ### [API autotests](https://github.com/dmitri91/qa_guru_demo_webshop) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
 
-### [Mobile autotests](https://github.com/dmitri91/qa_guru_demo_webshop) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
+### [Mobile autotests](https://github.com/dmitri91/mobile-diplom-wiki) <img width="3%" title="GitHub" src="images/logo_stacks/github.png">
 
 <!--Education-->
 
